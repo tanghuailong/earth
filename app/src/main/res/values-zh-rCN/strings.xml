@@ -30,6 +30,8 @@
     <string name="wifi_only">只在 Wi-Fi 连接时更新</string>
     <string name="save">按下按钮完成设置</string>
 
+    <string name="data_saver_considered">流量节省程序已开启，图像将会已最低分辨率和最长间隔抓取。</string>
+
     <string name="auto_sync_disabled">自动同步未启用</string>
     <string name="auto_sync_disabled_text">
         馒头地球需要开启您手机的自动同步设置，它才能在后台更新图像的，同时保持极低的电量消耗
@@ -41,16 +43,12 @@
 
     <string name="live_wallpaper_unsupported">很抱歉，您的手机似乎并不支持动态壁纸…</string>
 
-    <string name="update_available">有新版本 %s 了</string>
-    <string name="update_confirm">现在下载</string>
-    <string name="update_cancel">取消</string>
-
     <string name="about">关于</string>
     <string name="version" formatted="false">版本 %s (%s)</string>
     <string name="fork_me_on_github">访问项目在 GitHub 上的源代码</string>
     <string name="sponsor">赞助商</string>
     <string name="sponsor_text"><![CDATA[
-        感谢「<a href="http://dwfei.com">带我飞</a>」的赞助，我们继续免费了。
+        <p>图像处理和分发技术由<a href="https://www.upyun.com/">又拍云</a>赞助提供。</p>
     ]]></string>
     <string name="contact_us">联系我们</string>
     <string name="contact_us_text"><![CDATA[

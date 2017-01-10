@@ -30,6 +30,8 @@
     <string name="wifi_only">只在 Wi-Fi 連接時更新</string>
     <string name="save">按下按鈕完成設定</string>
 
+    <string name="data_saver_considered">流量節省程序已開啟，影像將會以最低解析度和最長間隔抓取。</string>
+
     <string name="auto_sync_disabled">自動同步未啟用</string>
     <string name="auto_sync_disabled_text">
         饅頭地球需要開啟您手機的自動同步設定，它才能在後台更新圖像，同時保持極低的電池消耗
@@ -41,16 +43,12 @@
 
     <string name="live_wallpaper_unsupported">很抱歉，您的手機似乎並不支持即時桌布…</string>
 
-    <string name="update_available">新版本 %s 現已可用</string>
-    <string name="update_confirm">立即下載</string>
-    <string name="update_cancel">取消</string>
-
     <string name="about">關於</string>
     <string name="version" formatted="false">版本 %s (%s)</string>
     <string name="fork_me_on_github">訪問本專案位於 GitHub 的源代碼</string>
     <string name="sponsor">贊助商</string>
     <string name="sponsor_text"><![CDATA[
-        感謝「<a href="http://dwfei.com">帶我飛</a>」的贊助，我們繼續免費了。
+        <p>影像處理及分發技術由<a href="https://www.upyun.com/">又拍云</a>贊助提供。</p>
     ]]></string>
     <string name="contact_us">聯系我們</string>
     <string name="contact_us_text"><![CDATA[
